@@ -3,6 +3,7 @@
 ## Locked Decisions
 - **Round**: Pre-seed
 - **Ask**: TBD (amount not yet specified)
+- **Company name**: VibeStack
 - **Target customer**: Vibe coders (non-technical builders using AI coding tools)
 - **Core problem**: AI drift degrades output quality during longer work sessions
 - **Product**: MCP service that plugs into any AI client to reduce drift
@@ -10,6 +11,7 @@
 - **GTM motion**: TBD
 - **Traction evidence**: 5 active testing users
 - **Narrative lead**: TBD
+- **Core benefits**: Ship faster, less error fixing, production-ready output
 
 ## Open Questions
 - Raise amount?
