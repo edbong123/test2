@@ -3,7 +3,7 @@
 ## Locked Decisions
 - **Round**: TBD
 - **Ask**: TBD
-- **Target customer**: TBD
+- **Target customer**: Vibe coders (non-technical builders using AI coding tools)
 - **Core problem**: AI drift degrades output quality during longer work sessions
 - **Why now**: TBD
 - **GTM motion**: TBD
@@ -11,11 +11,10 @@
 - **Narrative lead**: TBD
 
 ## Open Questions
-- Who exactly is the target customer? (knowledge workers, devs, enterprise teams?)
-- What is the product category? (tool, layer, workflow system?)
-- What stage / round are you raising?
+- What is the product exactly? (tool, layer, prompt system, workflow?)
+- What round are you raising, and how much?
 - Is there existing traction, design partners, or LOIs?
-- What is the "Why Now" trigger?
+- What is the "Why Now" trigger? (AI adoption surge, tooling maturity, other?)
 
 ## Constraints
 - None locked yet
