@@ -11,7 +11,7 @@
 - **GTM motion**: TBD
 - **Traction evidence**: 5 active testing users
 - **Narrative lead**: TBD
-- **Core benefits**: Ship better code faster
+- **Core benefits**: Ship better code much much faster
 
 ## Open Questions
 - Raise amount?
