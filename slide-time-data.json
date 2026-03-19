@@ -1,0 +1,42 @@
+{
+  "source": "DocSend Startup Fundraising Research",
+  "note": "Data reflects VC time-on-section behavior across thousands of decks. Pre-seed and seed stage.",
+  "last_updated": "2026-03-19",
+  "metrics": [
+    {
+      "section": "Product",
+      "avg_time_seconds": 77,
+      "note": "Most time spent of any section"
+    },
+    {
+      "section": "Business Model",
+      "trend": "+48% more time vs prior years",
+      "note": "VCs increasingly scrutinize revenue model at early stages"
+    },
+    {
+      "section": "Traction",
+      "trend": "+110% more time on unsuccessful decks vs successful",
+      "note": "Confused or weak traction data actively hurts — investors dwell on it"
+    },
+    {
+      "section": "Team",
+      "trend": "+30-40% more time in 2024 vs prior year",
+      "note": "DocSend 2024: VCs prioritize founding team evaluation at pre-seed and seed"
+    },
+    {
+      "section": "Market Size",
+      "trend": "-19% time vs prior periods",
+      "note": "VCs spending less time — make this sharp and concise"
+    },
+    {
+      "section": "Competition",
+      "trend": "-48% time vs other sections",
+      "note": "Investors care more about acknowledgment than depth"
+    },
+    {
+      "section": "Full deck (emailed)",
+      "avg_time_minutes": "2-4",
+      "note": "Total time before deciding whether to take a meeting"
+    }
+  ]
+}

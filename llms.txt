@@ -1,0 +1,31 @@
+# llms.txt — AI Agent Index
+# Project: Pre-Seed B2B SaaS Pitch Deck Research
+# Last updated: 2026-03-19
+
+## Purpose
+Structured research on how to build a pre-seed pitch deck for B2B software startups.
+Synthesized from Y Combinator, Sequoia, a16z, First Round Capital, DocSend, Techstars, 500 Global, and others.
+
+## File Map
+
+- README.md — Project overview and quick-reference summary
+- pitch-deck-framework-2026-03-19.md — Full 12-slide blueprint with slide-by-slide content guidance
+- narrative-and-storytelling.md — Three-act story structure, headline advice, delivery principles
+- pre-seed-vs-later-stages.md — How pre-seed decks differ from seed and Series A
+- common-mistakes.md — Nine mistakes that sink pre-seed B2B decks
+- slide-time-data.json — DocSend empirical VC time-on-slide data
+- source-coverage-matrix.csv — Which sources cover which slides
+- bibliography-2026-03-19.md — Full source list with URLs
+- raw-research-notes-2026-03-19.md — Unstructured initial research dump (archived)
+
+## Quick Answer Map
+
+| Question | File |
+|---|---|
+| What slides should I include? | pitch-deck-framework-2026-03-19.md |
+| How should the story flow? | narrative-and-storytelling.md |
+| How is pre-seed different? | pre-seed-vs-later-stages.md |
+| What mistakes to avoid? | common-mistakes.md |
+| What do VCs spend time on? | slide-time-data.json |
+| Which sources cover what? | source-coverage-matrix.csv |
+| Where did this data come from? | bibliography-2026-03-19.md |
