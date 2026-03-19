@@ -1,21 +1,22 @@
 # Pitch Deck State
 
 ## Locked Decisions
-- **Round**: TBD
-- **Ask**: TBD
+- **Round**: Pre-seed
+- **Ask**: TBD (amount not yet specified)
 - **Target customer**: Vibe coders (non-technical builders using AI coding tools)
 - **Core problem**: AI drift degrades output quality during longer work sessions
 - **Product**: MCP service that plugs into any AI client to reduce drift
 - **Why now**: TBD
 - **GTM motion**: TBD
-- **Traction evidence**: TBD
+- **Traction evidence**: 5 active testing users
 - **Narrative lead**: TBD
 
 ## Open Questions
-- What round are you raising, and how much?
-- Is there existing traction, design partners, or LOIs?
-- What is the "Why Now" trigger? (MCP standard adoption, vibe coding explosion, other?)
-- Pricing model? (free tier, subscription, usage-based?)
+- Raise amount? (even a range helps)
+- What is the "Why Now" trigger?
+- Pricing model?
+- What do the 5 users say? Any qualitative signal worth quoting?
 
 ## Constraints
-- None locked yet
+- Pre-revenue
+- Early traction only (5 testing users, no paid customers yet)
